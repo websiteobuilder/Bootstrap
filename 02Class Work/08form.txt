@@ -1,0 +1,1 @@
+make a form for the user to enter their name and their email address in the form of a text box and a text box for the user to enter their password. with color.
